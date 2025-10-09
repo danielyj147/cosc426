@@ -1,7 +1,12 @@
 .DS_Store
-**/data
 **/__pycache__
-**/predictions
-**/results
-**/submission
-**/models
+
+**/data/*
+**/predictions/*
+**/results/*
+**/submission/*
+**/models/*
+**/aclImdb/*
+**/archive/*
+
+!**/.gitkeep

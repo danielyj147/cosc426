@@ -1,0 +1,12 @@
+exp: MinimalPair
+
+mode:
+  - analyze
+
+predfpath: /Users/jeong/Projects/school/cosc426/cosc426/hw/hw05/predictions/prediction.tsv
+
+datafpath: /Users/jeong/Projects/school/cosc426/cosc426/hw/hw05/data/eval.tsv
+
+resultsfpath: /Users/jeong/Projects/school/cosc426/cosc426/hw/hw05/results/result.tsv
+
+save: by_cond
